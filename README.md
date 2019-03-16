@@ -1,2 +1,2 @@
-#my app
+#MyApp
 This is git tutorial
